@@ -1,6 +1,6 @@
 # Android-QrCode-Scanner-Generator
 
-  a native android app that creates and generate a QR codes
+  a native android app that creates and generate  QR codes
   
   used librarys:
   
